@@ -5,4 +5,6 @@ public class FeatureA {
 
     // commit 4
 
+    // commit 5
+
 }
